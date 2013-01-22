@@ -40,7 +40,110 @@
          id="org.eclipse.orion.server.search.feature.feature.group"
          version="0.0.0"/>
 
+   <unit
+         id="org.apache.lucene.core"
+         version="0.0.0"/>
+   <unit
+         id="org.apache.lucene.highlighter"
+         version="0.0.0"/>
+   <unit
+         id="org.apache.lucene.memory"
+         version="0.0.0"/>
+   <unit
+         id="org.apache.lucene.analysis"
+         version="0.0.0"/>
+   <unit
+         id="org.apache.lucene.misc"
+         version="0.0.0"/>
+   <unit
+         id="org.apache.lucene.spatial"
+         version="0.0.0"/>
+   <unit
+         id="org.apache.lucene.grouping"
+         version="0.0.0"/>
+   <unit
+         id="org.apache.lucene.spellchecker"
+         version="0.0.0"/>
+   <unit
+         id="org.apache.lucene.queries"
+         version="0.0.0"/>
+   <unit
+         id="org.apache.lucene"
+         version="0.0.0"/>
+   <unit
+         id="org.apache.commons.fileupload"
+         version="0.0.0"/>
+<unit
+         id="org.eclipse.equinox.http.jetty"
+         version="0.0.0"/>
+<unit
+         id="org.eclipse.jetty.http"
+         version="0.0.0"/>
 
+<unit
+         id="org.eclipse.jetty.io"
+         version="0.0.0"/>
+
+<unit
+         id="org.eclipse.jetty.continuation"
+         version="0.0.0"/>
+
+<unit
+         id="org.eclipse.jetty.server"
+         version="0.0.0"/>
+
+<unit
+         id="org.eclipse.jetty.security"
+         version="0.0.0"/>
+
+<unit
+         id="org.eclipse.jetty.servlet"
+         version="0.0.0"/>
+
+<unit
+         id="org.eclipse.jetty.servlets"
+         version="0.0.0"/>
+
+<unit
+         id="org.eclipse.jetty.util"
+         version="0.0.0"/>
+
+<unit
+         id="org.eclipse.jetty.client"
+         version="0.0.0"/>
+
+<unit
+         id="org.eclipse.equinox.http.servlet"
+         version="0.0.0"/>
+         
+<unit
+         id="org.eclipse.equinox.http.registry"
+         version="0.0.0"/>
+         
+<unit
+         id="org.eclipse.core.filesystem.linux.x86_64"
+         version="0.0.0"/>
+<unit
+         id="org.eclipse.core.filesystem"
+         version="0.0.0"/>
+<unit
+         id="javax.mail.glassfish"
+         version="0.0.0"/>
+         
+<unit
+         id="javax.xml"
+         version="0.0.0"/>
+
+<unit
+         id="org.apache.xerces"
+         version="0.0.0"/>
+<unit
+         id="org.apache.xml.resolver"
+         version="0.0.0"/>         
+<unit
+         id="org.cyberneko.html"
+         version="0.0.0"/>         
+         
 <repository location="file:/home/user/orionP2/"/>
 </location>
 </locations>
