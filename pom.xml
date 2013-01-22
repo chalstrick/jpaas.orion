@@ -18,6 +18,7 @@
 
     <modules>
         <module>jpaas.orion.target</module>
+        <module>jpaas.orion.web/WebContent</module>
         <module>jpaas.orion.feature</module>
         <module>jpaas.orion.p2</module>
     </modules>
@@ -141,26 +142,6 @@
                         <environment>
                             <os>linux</os>
                             <ws>gtk</ws>
-                            <arch>x86</arch>
-                        </environment>
-                        <environment>
-                            <os>linux</os>
-                            <ws>gtk</ws>
-                            <arch>x86_64</arch>
-                        </environment>
-                        <environment>
-                            <os>win32</os>
-                            <ws>win32</ws>
-                            <arch>x86</arch>
-                        </environment>
-                        <environment>
-                            <os>win32</os>
-                            <ws>win32</ws>
-                            <arch>x86_64</arch>
-                        </environment>
-                        <environment>
-                            <os>macosx</os>
-                            <ws>cocoa</ws>
                             <arch>x86_64</arch>
                         </environment>
                     </environments>

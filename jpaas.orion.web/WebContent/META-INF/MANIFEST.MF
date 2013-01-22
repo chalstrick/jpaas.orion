@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Jpaas.orion.web
+Bundle-SymbolicName: jpaas.orion.web
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: WEB-INF/classes/
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Import-Package: javax.el,
+ javax.servlet,
+ javax.servlet.http,
+ javax.servlet.jsp,
+ javax.servlet.jsp.el,
+ javax.servlet.jsp.tagext
+Web-ContextPath: /
+Require-Bundle: org.eclipse.orion.server.servlets;bundle-version="1.0.0"
